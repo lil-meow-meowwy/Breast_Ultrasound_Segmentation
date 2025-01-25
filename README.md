@@ -52,9 +52,9 @@ This project aims to develop a deep learning solution for automating the segment
 ### Sample Visualizations
 | Original Image | Ground Truth Mask | Model Prediction |
 |----------------|-------------------|------------------|
-| ![image](https://github.com/user-attachments/assets/95be8810-a832-42ad-8f87-0bc1d6c6f81e)
-    | ![image](https://github.com/user-attachments/assets/8b7bb8bb-f438-4539-ac0a-d262a2c0b3cb)
-       | ![image](https://github.com/user-attachments/assets/825d56d0-4e92-4c36-86b6-ab8876778117)
+|![image](https://github.com/user-attachments/assets/95be8810-a832-42ad-8f87-0bc1d6c6f81e)
+    |![image](https://github.com/user-attachments/assets/8b7bb8bb-f438-4539-ac0a-d262a2c0b3cb)
+       |![image](https://github.com/user-attachments/assets/825d56d0-4e92-4c36-86b6-ab8876778117)
       |
 | ![image](https://github.com/user-attachments/assets/e9c6664d-22a9-4271-9b82-c701ddc9eb27)
    | ![image](https://github.com/user-attachments/assets/ba400e91-d8bd-47e5-b6bd-ebf205147f36)
