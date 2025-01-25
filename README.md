@@ -80,11 +80,17 @@ This project aims to develop a deep learning solution for automating the segment
 
 ---
 
+## Repository Links
+- **[Dataset BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)**.
+
+---
+
 ## Future Work
 - Expand dataset to improve generalizability.
 - Explore advanced architectures like DeepLab or Mask R-CNN.
 - Integrate additional preprocessing techniques for noise reduction.
 
 ---
+
 
 For questions or collaborations, feel free to reach out!
